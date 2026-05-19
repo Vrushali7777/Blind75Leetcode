@@ -1,3 +1,4 @@
+package CodesInJava;
 public class MaxSubArray53 {
     public static int maxSubarray(int[] nums){
         int maxSub = nums[0];   //initializing maxSum of maxSubarray to first element of input array

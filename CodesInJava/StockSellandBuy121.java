@@ -1,3 +1,4 @@
+package CodesInJava;
 public class StockSellandBuy121 {
     public int maxProfit(int[] prices){
         int l = 0;

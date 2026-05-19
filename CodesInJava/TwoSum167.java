@@ -1,7 +1,8 @@
+package CodesInJava;
 import java.util.*;
 
 public class TwoSum167 {
-    public static int[] twoSum(int[] nums, int target){
+    public int[] twoSum(int[] nums, int target){
         int l = 0;
         int r = nums.length - 1;
 

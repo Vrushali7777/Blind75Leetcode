@@ -1,3 +1,4 @@
+package CodesInJava;
 public class FindMinInRotatedSortedArray153 {
     public static int findMin(int[] nums){
         int res = nums[0];

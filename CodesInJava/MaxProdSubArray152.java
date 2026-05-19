@@ -1,3 +1,4 @@
+package CodesInJava;
 public class MaxProdSubArray152 {
     public static int maxProdArray(int[] nums){
         int res = nums[0];

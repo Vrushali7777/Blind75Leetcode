@@ -1,9 +1,9 @@
+package CodesInJava;
 import java.util.*;
-
 import javax.swing.plaf.basic.BasicInternalFrameUI.InternalFramePropertyChangeListener;
 
 public class ThreeSum15 {
-    public static List<List<Integer>> threeSum(int[] nums){
+    public List<List<Integer>> threeSum(int[] nums){
         List<List<Integer>> res = new ArrayList<>();
 
         Arrays.sort(nums);
